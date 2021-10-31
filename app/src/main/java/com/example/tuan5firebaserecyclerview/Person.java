@@ -1,8 +1,12 @@
 package com.example.tuan5firebaserecyclerview;
 
+
 public class Person {
     private String name;
     private  boolean isMale;
+
+    public Person() {
+    }
 
     public Person(String name, boolean isMale) {
         this.name = name;
