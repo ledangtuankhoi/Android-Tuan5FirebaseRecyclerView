@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982216030860",
+    "project_id": "tuan5firebaserecyclerview",
+    "storage_bucket": "tuan5firebaserecyclerview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982216030860:android:8c53e55a640fb6e1dbd9a9",
+        "android_client_info": {
+          "package_name": "com.example.tuan5firebaserecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982216030860-p7srtq3no5ksl39078d9svd4g7ua5r2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD43UBjixbKMA8DQ6KRnrLOmH__hRtzYNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982216030860-p7srtq3no5ksl39078d9svd4g7ua5r2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
